@@ -1,0 +1,19 @@
+{
+  "name": "parabankformarkoploai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "install": "^0.13.0"
+  },
+  "dependencies": {
+    "csv-write-stream": "^2.0.0"
+  }
+}
